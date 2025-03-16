@@ -1,0 +1,1 @@
+For version 1.0 of the proxmox-api-middleware all ISOs need to use lvm and the qemu-quest-agent.
